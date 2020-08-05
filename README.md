@@ -29,7 +29,7 @@
 - ⚡ Fun fact: Its so hard to fully complete a project.
 
 [![Twitter: aniketsindhu1](https://img.shields.io/twitter/follow/aniketsindhu1?style=social)](https://twitter.com/aniketsindhu1)
-[![Linkedin: aniketsindhu](https://img.shields.io/badge/aniketsindhu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aniket-sindhu-1653b1132/)](https://www.linkedin.com/in/aniket-sindhu/)
+[![Linkedin: aniketsindhu](https://img.shields.io/badge/aniketsindhu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aniket-sindhu-1653b1132/)](https://www.linkedin.com/in/aniket-sindhu-1653b1132/)
 [![GitHub AniketSindhu](https://img.shields.io/github/followers/aniketsindhu?label=follow&style=social)](https://github.com/aniketsindhu)
 
 
