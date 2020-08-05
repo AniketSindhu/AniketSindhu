@@ -26,7 +26,7 @@
 - 🤔 I’m looking to work more on flutter web.
 - 📫 How to reach me: [Twitter - @aniketsindhu1](https://twitter.com/aniketsindhu1) , [Linkdein - @aniketsindhu](https://www.linkedin.com/in/aniket-sindhu-1653b1132/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Its so hard to fully complete a project.
+- ⚡ Fun fact: I love hiphop music.
 
 [![Twitter: aniketsindhu1](https://img.shields.io/twitter/follow/aniketsindhu1?style=social)](https://twitter.com/aniketsindhu1)
 [![Linkedin: aniketsindhu](https://img.shields.io/badge/aniketsindhu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aniket-sindhu-1653b1132/)](https://www.linkedin.com/in/aniket-sindhu-1653b1132/)
