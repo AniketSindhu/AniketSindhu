@@ -1,5 +1,5 @@
 ## Hola, I'm Aniket 👋
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketsindhu&label=Views&color=green&style=plastic" alt="aniketsindhu" /> </p>
 <a href="https://twitter.com/aniketsindhu1">
   <img align="left" alt="Aniket's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
