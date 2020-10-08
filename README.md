@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently working on [Passable](https://github.com/AniketSindhu/passable).
 - 🌱 I’m currently learning Deno.
-- 🤔 I’m looking to work more on flutter web.
+- 🤔 I’m looking to work more on apps with custom backend using nodejs or deno.
 - 📫 How to reach me: [Twitter - @aniketsindhu1](https://twitter.com/aniketsindhu1) , [Linkdein - @aniketsindhu](https://www.linkedin.com/in/aniket-sindhu-1653b1132/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love hiphop music.
