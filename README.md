@@ -47,14 +47,13 @@
 ---
 
 <a href="https://github.com/aniketsindhu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsindhu&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsindhu&theme=dark&hide_langs_below=1&layout=compact" />
 </a>
 <a href="https://github.com/aniketsindhu">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketsindhu&show_icons=true&theme=dark&line_height=27" alt="Aniket's github stats"/>
 </a>
 <a href="https://github.com/AniketSindhu/mask_detector">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aniketsindhu&repo=Mask_Detector&theme=dark" />
-
 </a>
 <a href="https://github.com/AniketSindhu/Gamiac">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aniketsindhu&repo=Gamiac&theme=dark" />
