@@ -53,6 +53,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketsindhu&show_icons=true&theme=dark&line_height=20" alt="Aniket's github stats"/>
 </a>
 
+---
 
 <a href="https://github.com/AniketSindhu/mask_detector">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aniketsindhu&repo=Mask_Detector&theme=dark" />
