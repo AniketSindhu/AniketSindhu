@@ -47,26 +47,25 @@
 ---
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketsindhu&layout=compact&theme=dark" alt="aniket sindhu" /></p>
+
 <p align="center">
-  
 <a href="https://github.com/aniketsindhu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsindhu&theme=dark&layout=compact" />
 </a>
 <a href="https://github.com/aniketsindhu">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketsindhu&show_icons=true&theme=dark&line_height=20" alt="Aniket's github stats"/>
 </a>
-  
+</p>
 ---
-
+<p align="center">
 <a href="https://github.com/AniketSindhu/mask_detector">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aniketsindhu&repo=Mask_Detector&theme=dark" />
 </a>
 <a href="https://github.com/AniketSindhu/Gamiac">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aniketsindhu&repo=Gamiac&theme=dark" />
 </a>
+</p>
 
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
+<p align="center">
+Show some ❤️ by starring some of the repositories!
+</p>
