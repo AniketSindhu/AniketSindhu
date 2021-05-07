@@ -1,19 +1,19 @@
 ## Hola, I'm Aniket 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketsindhu&label=Views&color=green&style=plastic" alt="aniketsindhu" /> </p>
 <a href="https://twitter.com/aniketsindhu1">
-  <img align="left" alt="Aniket's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Aniket's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/aniket-sindhu-1653b1132/">
-  <img align="left" alt="Aniket's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Aniket's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/AniketSindhu">
-  <img align="left" alt="Aniket's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Aniket's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/github.svg" />
 </a>
 <a href="https://www.facebook.com/aniket.sindhu">
-  <img align="left" alt="Aniket's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Aniket's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/facebook.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCyvxwBAfHN7-Jx5MYuUeOtw">
-  <img align="left" alt="Aniket's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" alt="Aniket's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v2/icons/youtube.svg" />
 </a>
 
 <br/>
