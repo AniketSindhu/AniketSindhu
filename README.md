@@ -22,10 +22,7 @@
 
 - 🌐 [My Portfolio Website](https://aniketsindhu.tech)
 - 🔭 I’m currently working on Findkrr.
-- 🌱 I’m currently trying automation stuff with python.
-- 🤔 I’m looking to work more on apps with custom backend using nodejs or deno.
 - 📫 How to reach me: [Twitter - @aniketsindhu1](https://twitter.com/aniketsindhu1) , [Linkdein - @aniketsindhu](https://www.linkedin.com/in/aniket-sindhu-1653b1132/)
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: I love hiphop music.
 
 [![Twitter: aniketsindhu1](https://img.shields.io/twitter/follow/aniketsindhu1?style=social)](https://twitter.com/aniketsindhu1)
