@@ -21,7 +21,7 @@
 
 
 - 🌐 [My Portfolio Website](https://aniketsindhu.tech)
-- 🔭 I’m currently working on Findkrr.
+- 🔭 I’m currently working on a blockchain protocol.
 - 📫 How to reach me: [Twitter - @aniketsindhu1](https://twitter.com/aniketsindhu1) , [Linkdein - @aniketsindhu](https://www.linkedin.com/in/aniket-sindhu-1653b1132/)
 - ⚡ Fun fact: I love hiphop music.
 
