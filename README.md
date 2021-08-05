@@ -1,70 +1,51 @@
-## Hola, I'm Aniket 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketsindhu&label=Views&color=green&style=plastic" alt="aniketsindhu" /> </p>
-<a href="https://twitter.com/aniketsindhu1">
-  <img align="left" alt="Aniket's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/aniket-sindhu-1653b1132/">
-  <img align="left" alt="Aniket's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/AniketSindhu">
-  <img align="left" alt="Aniket's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/github.svg" />
-</a>
-<a href="https://www.facebook.com/aniket.sindhu">
-  <img align="left" alt="Aniket's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/facebook.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCyvxwBAfHN7-Jx5MYuUeOtw">
-  <img align="left" alt="Aniket's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v2/icons/youtube.svg" />
-</a>
+## 👋 Hey, I'm Aniket
 
-<br/>
-<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketsindhu&label=Views&color=red" alt="aniketsindhu" /> </p>
 
+<a  href="https://www.aniketsindhu.tech/"><img src="https://img.shields.io/badge/aniketsindhu.tech-161B22.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
+<a href="mailto: sindhuaniket@gmail.com"><img src="https://img.shields.io/badge/-sindhuaniket%40gmail.com-C5221E?&style=for-the-badge&logo=Gmail&logoColor=white" ></a> <a href="https://www.linkedin.com/in/aniketsindhu/"><img src="https://img.shields.io/badge/aniketsindhu-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> <a href="https://github.com/aniketsindhu"><img src="https://img.shields.io/badge/aniketsindhu-white.svg?&style=for-the-badge&logo=github&logoColor=black" ></a> <a href="https://twitter.com/aniketsindhu1"><img src="https://img.shields.io/badge/aniketsindhu1-blue.svg?&style=for-the-badge&logo=twitter&logoColor=white" ></a> 
 
-- 🌐 [My Portfolio Website](https://aniketsindhu.tech)
-- 🔭 I’m currently working on a blockchain protocol.
+- 🔭 I’m currently working with Tezos India under TIF 2.0 fellowship program.
+- ⚡ Co Founder of Findkrr (Platform to find nearby street vendors) and [Devlance](https://devlance.in) (We provide digital solutions to startups).
 - 📫 How to reach me: [Twitter - @aniketsindhu1](https://twitter.com/aniketsindhu1) , [Linkdein - @aniketsindhu](https://www.linkedin.com/in/aniket-sindhu-1653b1132/)
-- ⚡ Fun fact: I love hiphop music.
-
-[![Twitter: aniketsindhu1](https://img.shields.io/twitter/follow/aniketsindhu1?style=social)](https://twitter.com/aniketsindhu1)
-[![Linkedin: aniketsindhu](https://img.shields.io/badge/aniketsindhu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aniket-sindhu-1653b1132/)](https://www.linkedin.com/in/aniket-sindhu-1653b1132/)
-[![GitHub AniketSindhu](https://img.shields.io/github/followers/aniketsindhu?label=follow&style=social)](https://github.com/aniketsindhu)
+- 👋  Fun fact: I love hiphop music.
 
 
-**Languages and Tools:**  
+## ⚡ Technologies
 
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
+![Dart](https://img.shields.io/badge/-Dart-red?style=flat-square&logo=dart)
+![Solidity](https://img.shields.io/badge/-solidity-E34A86?style=flat-square&logo=solidity)
+![Ethereum](https://img.shields.io/badge/-ethereum-green?style=flat-square&logo=ethereum)
+![Binance](https://img.shields.io/badge/-binance-grey?style=flat-square&logo=binance)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-darkblue?style=flat-square&logo=typescript)
+![Deno](https://img.shields.io/badge/-deno-purple?style=flat-square&logo=deno)
+![Nodejs](https://img.shields.io/badge/-Nodejs-pink?style=flat-square&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-grey?style=flat-square&logo=Python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Csharp](https://img.shields.io/badge/-csharp-E34A86?style=flat-square&logo=csharp)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
----
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketsindhu&layout=compact&theme=dark" alt="aniket sindhu" /></p>
-
-<p align="center">
-<a href="https://github.com/aniketsindhu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsindhu&theme=dark&layout=compact" />
+## 🌼 GitHub Highlights:
+<a href="">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=aniketsindhu&theme=gruvbox_duo"/>
 </a>
-<a href="https://github.com/aniketsindhu">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketsindhu&show_icons=true&theme=dark&line_height=20" alt="Aniket's github stats"/>
-</a>
-</p>
 
----
 
-<p align="center">
-<a href="https://github.com/AniketSindhu/mask_detector">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aniketsindhu&repo=Mask_Detector&theme=dark" />
-</a>
-<a href="https://github.com/AniketSindhu/Gamiac">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aniketsindhu&repo=Gamiac&theme=dark" />
-</a>
-</p>
+## 🔥 Quick stats about me:
 
+| Github Stats | Top Languages |
+| --- | --- |
+| ![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=aniketsindhu&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Aniket's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsindhu&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+
+<br></br>
 <p align="center">
 Show some ❤️ by starring some of the repositories!
 </p>
