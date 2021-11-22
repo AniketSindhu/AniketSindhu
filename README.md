@@ -5,7 +5,7 @@
 <a  href="https://www.aniketsindhu.tech/"><img src="https://img.shields.io/badge/aniketsindhu.tech-161B22.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
 <a href="mailto: sindhuaniket@gmail.com"><img src="https://img.shields.io/badge/-sindhuaniket%40gmail.com-C5221E?&style=for-the-badge&logo=Gmail&logoColor=white" ></a> <a href="https://www.linkedin.com/in/aniketsindhu/"><img src="https://img.shields.io/badge/aniketsindhu-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> <a href="https://github.com/aniketsindhu"><img src="https://img.shields.io/badge/aniketsindhu-white.svg?&style=for-the-badge&logo=github&logoColor=black" ></a> <a href="https://twitter.com/aniketsindhu1"><img src="https://img.shields.io/badge/aniketsindhu1-blue.svg?&style=for-the-badge&logo=twitter&logoColor=white" ></a> 
 
-- 🔭 I’m currently working with Tezos India under TIF 2.0 fellowship program.
+- 🔭 I’m currently working as Smart contract engineer at Tezsure/PlentyDefi.
 - ⚡ Co Founder of Findkrr (Platform to find nearby street vendors) and [Devlance](https://devlance.in) (We provide digital solutions to startups).
 - 📫 How to reach me: [Twitter - @aniketsindhu1](https://twitter.com/aniketsindhu1) , [Linkdein - @aniketsindhu](https://www.linkedin.com/in/aniket-sindhu-1653b1132/)
 - 👋  Fun fact: I love hiphop music.
