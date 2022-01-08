@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketsindhu&label=Views&color=red" alt="aniketsindhu" /> </p>
 
-<a  href="https://www.aniketsindhu.tech/"><img src="https://img.shields.io/badge/aniketsindhu.tech-161B22.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
+<a  href="https://aniketsindhu.tez.page/"><img src="https://img.shields.io/badge/Portfolio-161B22.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
 <a href="mailto: sindhuaniket@gmail.com"><img src="https://img.shields.io/badge/-sindhuaniket%40gmail.com-C5221E?&style=for-the-badge&logo=Gmail&logoColor=white" ></a> <a href="https://www.linkedin.com/in/aniketsindhu/"><img src="https://img.shields.io/badge/aniketsindhu-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> <a href="https://github.com/aniketsindhu"><img src="https://img.shields.io/badge/aniketsindhu-white.svg?&style=for-the-badge&logo=github&logoColor=black" ></a> <a href="https://twitter.com/aniketsindhu1"><img src="https://img.shields.io/badge/aniketsindhu1-blue.svg?&style=for-the-badge&logo=twitter&logoColor=white" ></a> 
 
 - 🔭 I’m currently working as Smart contract engineer at Tezsure/PlentyDefi.
