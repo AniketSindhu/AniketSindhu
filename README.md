@@ -6,7 +6,6 @@
 <a href="mailto: sindhuaniket@gmail.com"><img src="https://img.shields.io/badge/-sindhuaniket%40gmail.com-C5221E?&style=for-the-badge&logo=Gmail&logoColor=white" ></a> <a href="https://www.linkedin.com/in/aniketsindhu/"><img src="https://img.shields.io/badge/aniketsindhu-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> <a href="https://github.com/aniketsindhu"><img src="https://img.shields.io/badge/aniketsindhu-white.svg?&style=for-the-badge&logo=github&logoColor=black" ></a> <a href="https://twitter.com/aniketsindhu0"><img src="https://img.shields.io/badge/aniketsindhu0-blue.svg?&style=for-the-badge&logo=twitter&logoColor=white" ></a> 
 
 - 🔭 I’m currently working as Smart contract engineer at Tezsure/PlentyDefi.
-- ⚡ Co Founder of Findkrr (Platform to find nearby street vendors) and [Devlance](https://devlance.in) (We provide digital solutions to startups).
 - 📫 How to reach me: [Twitter - @aniketsindhu1](https://twitter.com/aniketsindhu1) , [Linkdein - @aniketsindhu](https://www.linkedin.com/in/aniket-sindhu-1653b1132/)
 - 👋  Fun fact: I love hiphop music.
 
@@ -39,13 +38,3 @@
 </a>
 
 
-## 🔥 Quick stats about me:
-
-| Github Stats | Top Languages |
-| --- | --- |
-| ![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=aniketsindhu&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Aniket's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsindhu&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
-
-<br></br>
-<p align="center">
-Show some ❤️ by starring some of the repositories!
-</p>
