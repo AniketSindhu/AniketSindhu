@@ -4,7 +4,7 @@
 
 <a href="mailto: sindhuaniket@gmail.com"><img src="https://img.shields.io/badge/-sindhuaniket%40gmail.com-C5221E?&style=for-the-badge&logo=Gmail&logoColor=white" ></a> <a href="https://www.linkedin.com/in/aniketsindhu/"><img src="https://img.shields.io/badge/aniketsindhu-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> <a href="https://github.com/aniketsindhu"><img src="https://img.shields.io/badge/aniketsindhu-white.svg?&style=for-the-badge&logo=github&logoColor=black" ></a> <a href="https://twitter.com/aniketsindhu0"><img src="https://img.shields.io/badge/aniketsindhu0-blue.svg?&style=for-the-badge&logo=twitter&logoColor=white" ></a> 
 
-- 📫 How to reach me: [Twitter - @aniketsindhu1](https://twitter.com/aniketsindhu1) , [Linkdein - @aniketsindhu](https://www.linkedin.com/in/aniket-sindhu-1653b1132/)
+- 📫 How to reach me: [Twitter - @aniketsindhu0](https://twitter.com/aniketsindhu0) , [Linkdein - @aniketsindhu](https://www.linkedin.com/in/aniket-sindhu-1653b1132/)
 - 👋  Fun fact: I love hiphop music.
 
 
